@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "oled.h": "c",
+        "main.h": "c"
+    }
+}
