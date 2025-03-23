@@ -2,6 +2,8 @@
 ## 注意事项
 · 文本编码使用UTF-8。
 
+· 项目使用STM32标准外设库(Standard Peripheral Library)
+
 · 项目未完成，代码完善中。
 
 · 矩阵键盘按键映射可能混乱，可自行使用```KeyBoard_Test()```调试。
