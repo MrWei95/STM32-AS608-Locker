@@ -3,15 +3,15 @@
 ## 使用的模块
 ### 光学指纹模块AS08
 
-<img src="/Documents/AS608.png" class="" title="AS608指纹模块" style="zoom:40%;" >
+<img src="/Documents/AS608.png" class="" title="AS608指纹模块" style="zoom:20%;" >
 
 ### 0.96寸OLED屏幕
 
-<img src="/Documents/oled.png" class="" title="oled屏幕" style="zoom:40%;" >
+<img src="/Documents/oled.png" class="" title="oled屏幕" style="zoom:20%;" >
 
 ### 4x4矩阵键盘
 
-<img src="/Documents/MatrixKey.png" class="" title="MatrixKey" style="zoom:40%;" >
+<img src="/Documents/MatrixKey.png" class="" title="MatrixKey" style="zoom:20%;" >
 
 
 ## 注意事项
