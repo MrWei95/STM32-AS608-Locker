@@ -3,11 +3,7 @@
 
 #include "main.h"
 
-void Locker_Init();
-
-void MatrixKey_Function(void);
-void Fingerprint_Function(void);
-
+void Locker_Init(void);
 void Unlock(void);
 
 #endif
